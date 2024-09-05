@@ -6,8 +6,8 @@ sdk-target = "34"
 minabox = "1.7.1"
 
 # Must be updated along with compose-multiplatform
-compose-bom = "2024.02.02"
-compose-multiplatform = "1.6.0"
+compose-bom = "2024.09.00"
+compose-multiplatform = "1.7.0-alpha03"
 compose-compiler = "1.5.10"
 activity-compose = "1.8.2"
 core-splashscreen = "1.0.1"
