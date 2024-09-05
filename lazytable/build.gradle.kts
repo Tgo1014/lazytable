@@ -51,9 +51,9 @@ android {
     kotlin {
         explicitApi()
 
-        androidTarget {
-            publishLibraryVariants("release", "debug")
-        }
+//        androidTarget {
+//            publishLibraryVariants("release", "debug")
+//        }
     }
     composeOptions {
         kotlinCompilerExtensionVersion = libs.versions.compose.compiler.get()
