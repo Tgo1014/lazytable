@@ -11,7 +11,7 @@ plugins {
     alias(libs.plugins.jetbrains.compose) apply false
     alias(libs.plugins.detekt)
     alias(libs.plugins.spotless)
-    alias(libs.plugins.mavenpublish)
+    //alias(libs.plugins.mavenpublish)
 }
 
 configure(subprojects) {
